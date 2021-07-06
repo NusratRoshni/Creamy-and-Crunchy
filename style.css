@@ -1,0 +1,174 @@
+body{
+    font-family: "STIX Two Math", serif;
+    margin: 0%;
+}
+div p{
+
+    text-align: justify;
+}
+h1 {
+  font-size: 60px;
+  
+}
+h3 {
+  font-weight: 500;
+  font-family: "STIX Two Math", serif;
+}
+
+.flxible{
+  display: flex;
+  margin-bottom: 150px;
+}
+.half {
+  width: 50%;
+  padding-left: 5%;
+}
+.half img {
+  width: 80%;
+}
+.Colorpurple {
+  color: rgb(109, 11, 109);
+}
+.Colormaroon {
+  color:rgb(107, 13, 13);
+}
+.order {
+  text-decoration: none;
+  background-image: linear-gradient(purple,tomato);
+  padding: 15px 30px;
+ color: white;
+  font-size: small;
+  font-weight: 400;
+  border-radius: 30%;
+  
+}
+.Contact
+{
+
+    text-decoration: none;
+    background-image: linear-gradient(orange,purple);
+    padding: 15px 30px;
+   color: white;
+    font-size: small;
+    font-weight: 400;
+    border-radius: 30%;
+}
+#contct
+{
+    margin-top: 10%;
+}
+.background
+{
+    background-image:url(images/shapes/images3.jpg);
+    background-repeat:repeat-x; 
+   
+}
+.background2
+{
+    background-image:url(images/shapes/images1.jpg);
+    background-repeat:no-repeat;
+    background-position:right bottom;
+     
+    
+
+}
+#section2text
+{
+    padding-right: 5% ;
+}
+.three
+{
+    width: 30%;
+   padding-left: 5%;
+   padding-right: 5%;
+    margin:5%;
+    box-shadow: 35px 5px 40px gray;
+    border-radius: 10%;
+
+}
+.socialmedia
+{
+    width: 30%;
+    padding-left: 2%;
+    padding-right: 2%;
+     margin:2%;
+     box-shadow: 10px 10px 5px whitesmoke;
+    
+
+}
+
+#r1
+{
+     border-left: 10px solid;
+     border-image: linear-gradient(orange,purple);
+    border-image-slice: 1;
+
+}
+#r1 img{
+    width:90%;
+    margin-top:15%;
+}
+#r2
+{
+     border-left: 10px solid;
+     
+     border-image: linear-gradient(green,yellow);
+    border-image-slice: 1;
+}
+#r2 img{
+    width:90%;
+    margin-top:15%;
+}
+#r3
+{
+     border-left: 10px solid;
+     border-image: linear-gradient(skyblue,blue);
+    border-image-slice: 1;
+   
+}
+#r3 img{
+    width:90%;
+    margin-top:15%;
+}
+.centr-align
+{
+text-align: center;
+padding:5%;
+}
+.footer
+{
+    text-align: center;
+    background-color:lightcoral;
+    height: 110px;
+    margin: 0%;
+    padding :20px;
+}
+#youtube
+{
+    text-decoration: none;
+    background-image: linear-gradient(purple,tomato);
+    padding: 10px 10px;
+   color: white;
+    font-size: small;
+    font-weight: 400;
+   
+}
+#insta
+{
+    text-decoration: none;
+    background-image: linear-gradient(purple,tomato);
+    padding: 10px 10px;
+   color: white;
+    font-size: small;
+    font-weight: 400;
+   
+}
+#Fb{
+    text-decoration: none;
+    background-image: linear-gradient(purple,tomato);
+    padding: 10px 10px;
+   color: white;
+    font-size: small;
+    font-weight: 400;
+  
+}
